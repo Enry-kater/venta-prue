@@ -16,7 +16,7 @@
 
  <!-- inicio del piede de pagina -->
   <div class="footer">
-    <p10> <h5></h7> </p>
+    <p10> <h5>
 
 <img src="venta 4.jpg" width="300" height="200"/>
 <img src="venta 1.jpg" width="300" height="200"/>
