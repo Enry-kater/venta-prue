@@ -52,10 +52,3 @@ height="200"/>
 <br>
 
 <input type="radio">   
-
-
-
-
-
-</body>
-</html>`
