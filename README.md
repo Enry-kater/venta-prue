@@ -38,5 +38,5 @@ img src="telefonos de samsung  3.jfif  " width="300" height="200"/>
 <br>
 
 <input type="radio">   
-<li><A href="https://enry-kater.github.io/TECNICO-P//">ENVIAR</a></li>
+<li><A href="https://enry-kater.github.io/TECNICO-P//">COMPRAR </a></li>
 <li><A href="https://enry-kater.github.io/TECNICO-P//">CANCELAR </a></li>
