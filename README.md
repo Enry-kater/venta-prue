@@ -3,9 +3,7 @@
 <body bgcolor="">
 <html>
                     <head>
-                                      <title>
-                                           Venta  de Dispocitivos
-                                      </title>
+                                  
 </head>
 <body>
 <h1>VENTAS DE DISPOPISTIVOS </h1>  
