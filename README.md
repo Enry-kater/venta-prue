@@ -1,7 +1,4 @@
 
-<html lang="en">
-<body bgcolor="">
-<html>
                     <head>
                                   
 <h1>VENTAS DE DISPOPISTIVOS </h1>  
