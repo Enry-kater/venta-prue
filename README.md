@@ -15,7 +15,8 @@
 <img src="8 venta .jfif" width="300" height="200"/>
 <img src="6.webp" width="300" height="200"/>
 <img src="venta 7.webp" width="300" height="200"/>
- <p> <textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora lenovo tiene desde el estilo 1 al estilo 8</textarea> 
+ textarea rows="4" cols ="30"> <p> <textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora lenovo tiene desde el estilo 1 al estilo 8 </textarea>
+
  <be>
 
 
