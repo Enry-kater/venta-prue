@@ -6,8 +6,6 @@
  <!-- inicio del piede de pagina -->
   <div class="footer">
     <p10> <h5>
-    <textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora lenovo tiene desde el estilo 1 al estilo 8</textarea>
-
 <img src="venta 4.jpg" width="300" height="200"/>
 <img src="venta 1.jpg" width="300" height="200"/>
 <img src="venta 2.webp" width="300" height="200"/>
@@ -16,7 +14,7 @@
 <img src="8 venta .jfif" width="300" height="200"/>
 <img src="6.webp" width="300" height="200"/>
 <img src="venta 7.webp" width="300" height="200"/>
-<textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora HP tiene desde el estilo 1 al estilo 8</textarea>
+      <textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora lenovo tiene desde el estilo 1 al estilo 8</textarea>
 
  <p>  <input type="radio"> VENTAS DE COMPUTADORA HP  <p>  
 <img src="venta 1 .webp " width="300" height="200"/> 
@@ -28,6 +26,7 @@
 <img src="venta 7.webp " width="300" height="200"/> 
 <img src="venta 7 hp.jfif " width="300" height="200"/> 
 <p>  <input type="radio"> Telefono  <p> 
+<textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora HP tiene desde el estilo 1 al estilo 8</textarea>
 
 <img src="telefonos de samsung  1.jfif " width="300" height="200"/> 
 <img src="telefonos de samsung  5.jfif " width="300" height="200"/> 
