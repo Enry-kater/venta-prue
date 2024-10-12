@@ -25,16 +25,13 @@
 <img src="venta 6 hp.jfif" width="300" height="200"/> 
 <img src="venta 7.webp " width="300" height="200"/> 
 <img src="venta 7 hp.jfif " width="300" height="200"/> 
-<p>  <input type="radio"> Telefono  <p> 
-<textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora HP tiene desde el estilo 1 al estilo 8</textarea>
+<p></p><textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora HP tiene desde el estilo 1 al estilo 8</textarea></p>
 
 <img src="telefonos de samsung  1.jfif " width="300" height="200"/> 
 <img src="telefonos de samsung  5.jfif " width="300" height="200"/> 
 <img src="telefonos de samsung  6.jfif " width="300" height="200"/> 
 <img src="telefonos de samsung  7jfif.jfif" width="300"
 img src="telefonos de samsung  3.jfif  " width="300" height="200"/> 
-<textarea rows="4" cols ="30">Escribir cual estilo de telefono desea comprar
-<input type="radio">   <p>
 
 <li><A href="https://enry-kater.github.io/TECNICO-P//">COMPRAR </a></li>
 <li><A href="https://enry-kater.github.io/TECNICO-P//">CANCELAR </a></li>
