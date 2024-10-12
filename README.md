@@ -45,8 +45,7 @@
 <img src="telefonos de samsung  5.jfif " width="300" height="200"/> 
 <img src="telefonos de samsung  6.jfif " width="300" height="200"/> 
 <img src="telefonos de samsung  7jfif.jfif" width="300"
-img src="telefonos de samsung  3.jfif  " width="300"  
-height="200"/> 
+img src="telefonos de samsung  3.jfif  " width="300" height="200"/> 
 <" width="300" height="200"/>
 
 <br>
