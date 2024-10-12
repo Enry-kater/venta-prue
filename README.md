@@ -1,7 +1,7 @@
 
                                   
 <h1>VENTAS DE DISPOPISTIVOS </h1>  
-<p>  <https://https://enry-kater.github.io/formulario///><A HREF="ARER.html">  INICIO DE UN FORMULARIO <p>  
+<p>  <https://https://enry-kater.github.io/formulario///><Ahttps://enry-kater.github.io/formulario/">  INICIO DE UN FORMULARIO <p>  
 
 
    <p><<input type="radio"> VENTAS DE COMPUTADORA, LENOVO 
