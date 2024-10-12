@@ -4,8 +4,6 @@
 <html>
                     <head>
                                   
-</head>
-<body>
 <h1>VENTAS DE DISPOPISTIVOS </h1>  
 <h1>VENTAS DE COMPUTADORAS </h1>  
 
