@@ -15,13 +15,6 @@
 <img src="8 venta .jfif" width="300" height="200"/>
 <img src="6.webp" width="300" height="200"/>
 <img src="venta 7.webp" width="300" height="200"/>
-<p>
- textarea rows="4" cols ="30"> <p> <textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora lenovo tiene desde el estilo 1 al estilo 8 </textarea>
- <br>
-
-
- <be>
-
 
  <p>  <input type="radio"> VENTAS DE COMPUTADORA HP  <p>  
 <img src="venta 1 .webp " width="300" height="200"/> 
@@ -32,7 +25,6 @@
 <img src="venta 6 hp.jfif" width="300" height="200"/> 
 <img src="venta 7.webp " width="300" height="200"/> 
 <img src="venta 7 hp.jfif " width="300" height="200"/> 
-<p>  <textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora ph tiene desde el estilo 1 al estilo 8</textarea> <p>
 <p>  <input type="radio"> Telefono  <p> 
 
 <img src="telefonos de samsung  1.jfif " width="300" height="200"/> 
@@ -40,8 +32,9 @@
 <img src="telefonos de samsung  6.jfif " width="300" height="200"/> 
 <img src="telefonos de samsung  7jfif.jfif" width="300"
 img src="telefonos de samsung  3.jfif  " width="300" height="200"/> 
-<br>
 
+ textarea rows="4" cols ="30"> <p> <textarea rows="4" cols ="30">Escribir cual estilo desiaria comprar de la  computadora lenovo tiene desde el estilo 1 al estilo 8 </textarea>
+   
 <input type="radio">   
 <li><A href="https://enry-kater.github.io/TECNICO-P//">COMPRAR </a></li>
 <li><A href="https://enry-kater.github.io/TECNICO-P//">CANCELAR </a></li>
