@@ -1,7 +1,6 @@
 
                                   
 <h1>VENTAS DE DISPOPISTIVOS </h1>  
-<h1>VENTAS DE COMPUTADORAS </h1>  
 
 
    <p><<input type="radio"> VENTAS DE COMPUTADORA, LENOVO 
